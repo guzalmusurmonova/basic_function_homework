@@ -2,6 +2,6 @@
 def main(a):
     return a
 # Create function arguments a.
-a=4152
+a=int(input("a="))
 # Return the value a.
 print(main(a))
